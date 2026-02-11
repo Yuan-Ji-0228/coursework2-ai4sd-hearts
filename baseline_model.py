@@ -191,7 +191,8 @@ def train_hearts_baseline(train_data, val_data):
     
     # Create output directory
     os.makedirs(MODEL_OUTPUT_DIR, exist_ok=True)
-    
+
+
     # Training arguments (HEARTS configuration)
     training_args = TrainingArguments(
         output_dir=MODEL_OUTPUT_DIR,
@@ -205,7 +206,9 @@ def train_hearts_baseline(train_data, val_data):
         load_best_model_at_end=True,
         save_total_limit=1,
         logging_steps=100,
-        seed=SEED
+        seed=SEED,
+        no_cuda=False,  
+        report_to="none",     
     )
     
     # Initialize Trainer
@@ -270,7 +273,7 @@ def evaluate_hearts_baseline(test_data, model_dir):
     
     # Create prediction pipeline
     print("[INFO] Generating predictions...")
-    pipe = pipeline("text-classification", model=model, tokenizer=tokenizer, device=-1)
+    pipe = pipeline("text-classification", model=model, tokenizer=tokenizer, device=0)
     
     # Get predictions
     predictions = pipe(test_data['text'].to_list(), return_all_scores=True)

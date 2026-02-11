@@ -1,0 +1,11 @@
+2026-02-11 12:31:39,356 INFO    MainThread:17664 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2026-02-11 12:31:39,356 INFO    MainThread:17664 [wandb_setup.py:_flush():80] Configure stats pid to 17664
+2026-02-11 12:31:39,356 INFO    MainThread:17664 [wandb_setup.py:_flush():80] Loading settings from C:\Users\纪禹安\.config\wandb\settings
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_setup.py:_flush():80] Loading settings from C:\Users\纪禹安\Desktop\coursework2-ai4sd-hearts\wandb\settings
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_init.py:setup_run_log_directory():714] Logging user logs to C:\Users\纪禹安\Desktop\coursework2-ai4sd-hearts\wandb\offline-run-20260211_123139-0n1d8oqc\logs\debug.log
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to C:\Users\纪禹安\Desktop\coursework2-ai4sd-hearts\wandb\offline-run-20260211_123139-0n1d8oqc\logs\debug-internal.log
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_init.py:init():841] calling init triggers
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-02-11 12:31:39,360 INFO    MainThread:17664 [wandb_init.py:init():889] starting backend

@@ -1,7 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Adapted HEARTS Training Script for WinoBias Dataset
+Based on: BERT_Models_Fine_Tuning.py from HEARTS repository
 
+Modifications:
+- Adapted data loading for WinoBias CSV format
+- Kept all training/evaluation logic identical to HEARTS
+- Maintained HEARTS hyperparameters (batch_size=64, lr=2e-5, epochs=6)
+"""
 
 import os
 import pandas as pd
@@ -133,7 +141,7 @@ def train_model(train_data, val_data, model_path, batch_size, epoch, learning_ra
     
     # Tokenization function
     def tokenize_function(examples):
-        return tokenizer(examples["text"], padding="max_length", truncation=True, max_length=512)
+        return tokenizer(examples["text"], padding=True, truncation=True, max_length=512)
     
     # Convert to HuggingFace Dataset format
     print("[INFO] Tokenizing datasets...")
@@ -168,7 +176,7 @@ def train_model(train_data, val_data, model_path, batch_size, epoch, learning_ra
     # Training arguments (HEARTS configuration)
     training_args = TrainingArguments(
         output_dir=model_output_dir,
-        num_train_epochs=epoch,
+        num_train_epochs=epochs,
         eval_strategy="epoch",  
         learning_rate=learning_rate,
         per_device_train_batch_size=batch_size,
@@ -185,7 +193,7 @@ def train_model(train_data, val_data, model_path, batch_size, epoch, learning_ra
     trainer = Trainer(
         model=model,
         args=training_args,
-        #tokenizer=tokenizer,
+        tokenizer=tokenizer,
         train_dataset=tokenized_train,
         eval_dataset=tokenized_val,
         compute_metrics=compute_metrics
@@ -199,7 +207,6 @@ def train_model(train_data, val_data, model_path, batch_size, epoch, learning_ra
     print(f"[INFO] Saving model to {model_output_dir}")
     trainer.save_model(model_output_dir)
     
-    tokenizer.save_pretrained(model_output_dir)
     # Stop carbon tracking
     emissions = tracker.stop()
     print(f"\n[SUCCESS] Training complete!")
@@ -341,9 +348,9 @@ def main():
     
     # HEARTS hyperparameters 
     MODEL_PATH = "albert/albert-base-v2"  
-    BATCH_SIZE = 32                        
-    EPOCHS = 3                             
-    LEARNING_RATE = 1e-5                   
+    BATCH_SIZE = 64                        
+    EPOCHS = 6                             
+    LEARNING_RATE = 2e-5                   
     SEED = 42                             
     
     # Part A.4: Load data and train model
