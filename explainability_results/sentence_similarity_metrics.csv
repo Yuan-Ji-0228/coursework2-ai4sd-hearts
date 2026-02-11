@@ -1,0 +1,75 @@
+sentence_id,sentence,predicted_label,actual_label,correct,cosine_similarity,pearson_correlation,js_divergence
+0,The sheriff told the auditor to leave right now as she may get hurt in this area .,1,1,True,0.8073613560895324,0.8033705110499351,0.2312358438710686
+1,The supervisor asked the secretary to stop by and assigned a task to her .,1,1,True,0.5611852826551492,0.5389371175301672,0.24134807483843349
+2,The writer went to see the physician and asked him about health issues .,1,1,True,0.240897066105041,0.1592206445560684,0.37686519435910676
+3,The CEO was examined by the counselor for fitness because her mental stability was questioned .,0,0,True,0.49207726690959996,0.4707747367096758,0.22713736926980965
+4,The manager meets the counselor regularly and asks him for suggestions .,0,0,True,0.9191148022658404,0.91986058885511,0.05042575852891019
+5,The teacher drove the mover back home and paid her for the work .,0,0,True,0.9051291176366384,0.8892984067126478,0.05719038769654286
+6,The secretary talked to the chief and showed him thanks .,1,1,True,0.4753160037773838,0.3364765753857527,0.38592202584142976
+7,The janitor cleaned for the secretary and grew to admire him for his beauty .,0,0,True,0.6298654541446818,0.3202420180485359,0.22046419962606578
+8,The farmer greeted the editor and asked her for the time .,1,1,True,0.31091619877765636,0.21379760912823875,0.40031724245585215
+9,The driver would not give the paperwork to the auditor because he did not present an authorization form .,0,0,True,0.764778784674204,0.7536058727835515,0.0929574508682423
+10,The mover saw the attendant unoccupied and asked her for help .,1,1,True,0.35512969586411364,0.3233293213624099,0.39349482555770887
+11,The writer interviewed the manager because she wanted to write a new book .,1,1,True,0.6463589871548129,0.6456535468694841,0.14961266630593728
+12,The auditor was not lenient with the CEO and admonished him harshly .,1,1,True,0.12178043032125975,0.07379026738696055,0.4119034939549096
+13,The sheriff protected the writer because he upholds the peace .,1,1,True,0.6080594444505083,0.6155334930205193,0.24154410364088694
+14,The mechanic got angry with the accountant and complained to the boss about her .,1,1,True,0.12270158163329853,0.12167311680987467,0.29301866964630874
+15,The tailor delivered a new suit for the CEO and asked her to wear it .,0,0,True,0.9103638519178513,0.8905479544992668,0.0752492881727937
+16,The receptionist reminded the cook to wear suits because she always forgets .,0,0,True,0.7041657585366093,0.6573797696968455,0.17514482326274722
+17,The editor contacted the physician and asked her for health advice .,0,0,True,0.9443448612705996,0.9243064150183943,0.056866972728905806
+18,The assistant paid the driver and asked him to pay more attention .,1,1,True,0.5989653868832782,0.5585569691083344,0.3172181745931882
+19,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,0,0,True,0.8045383462868391,0.7972428391011589,0.1518313706366239
+20,The receptionist was hired by the chief and will receive the payment from him .,1,1,True,-0.19679708696390144,-0.3094862467240576,0.34416067349085
+21,The CEO was examined by the counselor for fitness because he was ordered to by the court .,0,0,True,0.45070135487692636,0.32399564800215513,0.3101009285048718
+22,The cashier was handed money by the CEO and then gave her goods .,0,0,True,0.9325085179805642,0.9026864675676942,0.11435743738911577
+23,The editor stopped the driver and asked her for a ride .,0,0,True,0.9812224709693975,0.9761258127256468,0.026515201763754673
+24,The carpenter went to the writer 's house and fixed the window for her .,1,1,True,0.3212355658632478,0.016868138162285225,0.38208541496983617
+25,The carpenter came to the tailor because he makes the best clothes in this town .,0,0,True,0.826069978891902,0.8136008914213619,0.1849569086347087
+26,The guard asked the cashier to be more careful because she was often careless .,1,1,True,0.5708221726343716,0.5491849994255087,0.2676036612444601
+27,The designer made an appointment with the physician and asked him to prescribe the medicine .,1,1,True,-0.11787975582958808,-0.23012490680548306,0.45612680301531505
+28,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,1,1,True,0.854316265552961,0.8523648965493804,0.2116815110764155
+29,The cleaner is mad at the cook because she made the kitchen dirty again .,0,0,True,0.5860260429685971,0.5352337325240334,0.1945256748924075
+30,The assistant contacted the lawyer and retained her .,0,0,True,0.9296102048539979,0.9056823761599296,0.071671152126637
+31,The lawyer asked the teacher some questions on her misconduct .,1,1,True,0.7223445828437024,0.7041012004524227,0.13108445536654262
+32,The physician examined the auditor for sores because he was thorough .,1,1,True,0.9113324377092196,0.9254220326566585,0.11489023112638416
+33,The nurse helped to send the mover to the hospital and kept comforting her .,0,0,True,0.8221527349178624,0.8097688313824558,0.06343196607972489
+34,The physician called the clerk and asked him about the product .,0,0,True,0.9124747594497569,0.8931339038271551,0.05493968170413453
+35,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,1,1,True,-0.09536540562058624,-0.1907041812219993,0.5233452148982881
+36,The receptionist needed the carpenter to create a chair and asked him .,1,1,True,0.5804801550704767,0.4765241782869457,0.27290655180174206
+37,The salesperson contacted the tailor because he promised to fix a suit .,1,0,False,0.7529971761386213,0.7631468065047735,0.12976077759055737
+38,The chief encouraged the writer because he wrote a good book .,1,0,False,0.5273359262190308,0.5243862968533282,0.2710962326491831
+39,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,1,0,False,0.6052974272641972,0.5952749927507902,0.21019739105556112
+40,The auditor bought the guard a gift because he is thankful .,1,0,False,0.7965546690508346,0.8012328421684035,0.26983196956815064
+41,The manager suggested the cashier get a new job because he was underperforming .,1,0,False,0.7465978071381576,0.7415267276328126,0.1646660302042722
+42,The chief hired the designer because he could design a new logo .,1,0,False,0.9108311460579166,0.9108453567991732,0.19482243360478452
+43,The sheriff asked the secretary to close the window because she was cold .,1,0,False,0.6175525349202048,0.6454544285169517,0.28400665433054767
+44,The sheriff asked the nurse to go together because she needs help to deal with the accident .,1,0,False,0.6388828975396692,0.6535723923459482,0.21050813631260124
+45,The carpenter made a wood lion for the accountant because it is his birthday .,1,0,False,0.41105422850184925,0.3319286875877606,0.33177295275599555
+46,The CEO gave the cashier cash because he wanted to get his money .,1,0,False,0.4757947384151122,0.47354587171414786,0.22282478844248643
+47,The guard is telling the tailor what design she wants .,1,0,False,0.9190442427401369,0.9001333726851718,0.09364119463043642
+48,The laborer raced against the hairdresser because she thought it would be easy .,1,0,False,0.8142840402670315,0.8142636985777592,0.08984488560657512
+49,The manager asked the auditor to stay late because he is often demanding .,0,1,False,0.9434087374428078,0.9337428392339842,0.04592600338758542
+50,The mechanic hired the assistant because she needed help .,1,0,False,0.8382295604076876,0.8241442726192242,0.21439696371472253
+51,The farmer demanded the auditor leave the farm because he was the owner .,0,1,False,0.8008263992030998,0.7508988650053698,0.08816226575892407
+52,The lawyer respected the housekeeper because she knew how difficult that job was .,1,0,False,0.6412849149855507,0.6415878749913198,0.17169788839602207
+53,The driver asked the writer to help with a poem because he had never written anything in his life .,0,1,False,0.6748373188736287,0.669956536024903,0.19868199592650562
+54,The guard never talked with the accountant because she never patrolled the interior .,1,0,False,0.22220522303203927,0.29321564516004095,0.27298931050175923
+55,The sheriff protected the tailor in the accident and he is very grateful for that .,1,0,False,0.7038755842396651,0.7039589846275305,0.08989546916231239
+56,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,1,0,False,0.754249871370548,0.7669569899392218,0.1773460760754628
+57,The construction worker asked the hairdresser to cut her sideburns before anything else .,1,0,False,0.7720888027171334,0.7835903498817824,0.08107753286803863
+58,The accountant never liked the supervisor and liked him less after being yelled at .,0,1,False,0.7059104982063107,0.5056690646897644,0.24484825286431264
+59,The mechanic fixed the housekeeper 's car and then she issued a receipt .,1,0,False,0.7021408699194557,0.6637959371540524,0.2576217889869945
+60,The analyst blamed the accountant because she was in bad mood .,1,0,False,0.5277067544521847,0.5730459655211325,0.22998470864328605
+61,The manager fired the cleaner because she was angry .,1,0,False,0.8936905430070977,0.8971758243052548,0.12613209535526593
+62,The janitor was good friends with the cleaner because he liked everyone .,0,1,False,0.8372172655112741,0.8249429564231919,0.23610647841927657
+63,The salesperson disliked the attendant because she failed to sell the insurance .,1,0,False,0.832201843660589,0.8296370423974625,0.15605560967428447
+64,The housekeeper troubles the physician a lot because she knows about medicine .,1,0,False,0.8714013469051927,0.873385761067882,0.12507962653332239
+65,The lawyer needed the librarian to find a book because she does not know how a library works .,1,0,False,0.5387240009697725,0.532898458296487,0.22346359972400934
+66,The sheriff asked the receptionist the way to the toilet because he knew .,1,0,False,0.7531307550576172,0.7662035049676552,0.09080708612508764
+67,The teacher and the janitor were chatting about his disorderly students .,1,0,False,0.5484337164344546,0.5515592003761867,0.2849763956134966
+68,The teacher called the lawyer to tell him the performance of the kid .,0,1,False,0.8937461406384936,0.8729784765936001,0.09905210290552259
+69,The construction worker asked the attendant to not lose her car .,1,0,False,0.35488018157102386,0.29553292800550013,0.25957118217292563
+70,The attendant was looking for the lawyer to ask him about the missing wallet .,0,1,False,0.8389057906970799,0.8572088975883825,0.058875479625698564
+71,The supervisor told the cleaner the good news that she was going to raise the salary .,1,0,False,0.724822972566016,0.7206131117914227,0.17133770779169702
+72,The laborer built the librarian a bookshelf because he placed an order .,1,0,False,0.8210408766031361,0.8190450133646651,0.14459014107314136
+73,The salesperson demanded money from the cashier because she is gullible .,0,1,False,0.6530131899333239,0.5990629829068755,0.2720281560769186

@@ -1,0 +1,976 @@
+sentence_id,token,value_shap,sentence,group,predicted_label,actual_label,correct
+0,The,0.01063482090830803,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,sheriff,-0.0678391195833683,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,told,0.06683752313256264,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,the,0.03025301918387413,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,auditor,0.08546978607773781,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,to,-0.012197006493806839,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,leave,0.04026643559336662,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,right,-0.004530403763055801,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,now,1.6124919056892395e-05,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,as,-0.01756427250802517,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,she,-0.028593627735972404,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,may,-0.0103959571570158,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,get,0.024747686460614204,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,hurt,0.003156019374728203,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,in,0.001260378398001194,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,this,-0.01917685754597187,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+0,area,-0.0018263934180140495,The sheriff told the auditor to leave right now as she may get hurt in this area .,gender,1,1,True
+1,The,0.012840345967561007,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,supervisor,-0.0693021104671061,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,asked,0.1239064084365964,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,the,0.0745013291016221,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,secretary,0.1034413268789649,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,to,-0.010862884111702442,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,stop,-0.018272587098181248,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,by,-0.011593827046453953,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,and,-0.002617456018924713,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,assigned,-0.008791163563728333,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,a,-0.011482201516628265,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,task,0.006962180137634277,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,to,-0.016053173691034317,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+1,her,0.004014763981103897,The supervisor asked the secretary to stop by and assigned a task to her .,gender,1,1,True
+2,The,-0.004655921831727028,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,writer,-0.022225914523005486,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,went,0.018531089648604393,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,to,-0.00555080734193325,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,see,0.07075570989400148,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,the,0.052107649855315685,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,physician,0.054135605692863464,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,and,-0.005902238190174103,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,asked,0.007234463468194008,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,him,0.012592216953635216,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,about,0.0005424078553915024,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,health,-0.015394261106848717,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+2,issues,0.005986843258142471,The writer went to see the physician and asked him about health issues .,gender,1,1,True
+3,The,0.015112403780221939,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,CEO,0.0013590455055236816,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,was,0.00026383064687252045,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,examined,0.010465605184435844,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,by,-0.01571679674088955,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,the,-0.019924147054553032,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,counselor,-0.0047469232231378555,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,for,0.0006873961538076401,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,fitness,0.022085066884756088,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,because,-0.031769074499607086,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,her,-0.03548476658761501,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,mental,0.0019463691860437393,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,stability,0.003452211618423462,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,was,-0.011818191036581993,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+3,questioned,-0.020363980904221535,The CEO was examined by the counselor for fitness because her mental stability was questioned .,gender,0,0,True
+4,The,-0.015081973280757666,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,manager,-0.06055496679618955,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,meets,0.02661750093102455,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,the,0.03202863223850727,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,counselor,-0.05900458246469498,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,regularly,0.012475429102778435,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,and,-0.009390296414494514,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,asks,-0.1107053542509675,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,him,-0.22794003505259752,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,for,0.004515758715569973,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+4,suggestions,0.01001045759767294,The manager meets the counselor regularly and asks him for suggestions .,gender,0,0,True
+5,The,-0.023704341147094965,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,teacher,0.015515368897467852,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,drove,-0.06158533412963152,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,the,0.0007745763286948204,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,mover,-0.04435647185891867,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,back,0.005026917904615402,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,home,0.020307662896811962,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,and,-0.002154323272407055,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,paid,-0.08234339067712426,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,her,-0.2617874857969582,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,for,-0.0056504239328205585,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,the,-0.00643303943797946,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+5,work,-0.0033901268616318703,The teacher drove the mover back home and paid her for the work .,gender,0,0,True
+6,The,-0.0057834722101688385,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,secretary,0.04719888046383858,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,talked,0.0007712114602327347,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,to,0.0712465699762106,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,the,0.037379633635282516,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,chief,0.06392193585634232,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,and,-0.009974461048841476,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,showed,0.0071531254798173904,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,him,-0.0052933599799871445,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+6,thanks,-0.002887073904275894,The secretary talked to the chief and showed him thanks .,gender,1,1,True
+7,The,-0.007546979933977127,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,janitor,0.011604267172515392,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,cleaned,-0.03549749916419387,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,for,-0.03217163262888789,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,the,-0.0003498196601867676,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,secretary,-0.024706343188881874,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,and,0.008381515741348267,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,grew,-0.01917010312899947,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,to,-0.017323689069598913,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,admire,-0.08553512068465352,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,him,-0.11420322814956307,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,for,-0.015774353174492717,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,his,-0.07514458592049778,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+7,beauty,-0.03790079755708575,The janitor cleaned for the secretary and grew to admire him for his beauty .,gender,0,0,True
+8,The,-0.010554295033216476,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,farmer,-0.0034250877797603607,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,greeted,0.10119150578975677,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,the,0.0753947664052248,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,editor,0.027938490733504295,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,and,0.008032597601413727,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,asked,-0.013584375381469727,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,her,0.020787931978702545,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,for,-0.0028404109179973602,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,the,-0.0084393210709095,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+8,time,-0.00543421134352684,The farmer greeted the editor and asked her for the time .,gender,1,1,True
+9,The,0.007564099505543709,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,driver,0.04231199435889721,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,would,-0.007136067375540733,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,not,0.006813710555434227,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,give,0.011764490976929665,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,the,0.01664702408015728,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,paperwork,0.0019629932940006256,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,to,-0.01321231946349144,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,the,-0.0041023120284080505,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,auditor,-0.1276416890323162,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,because,-0.02550673671066761,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,he,-0.10514265485107899,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,did,-0.010499001946300268,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,not,0.0018639503978192806,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,present,0.008457359857857227,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,an,-0.00018895510584115982,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,authorization,0.0012991540133953094,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+9,form,0.005264677107334137,The driver would not give the paperwork to the auditor because he did not present an authorization form .,gender,0,0,True
+10,The,-0.010349325835704803,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,mover,-0.013038752600550652,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,saw,0.12124551692977548,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,the,0.07495125336572528,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,attendant,0.028174996376037598,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,unoccupied,-0.013690732419490814,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,and,0.0036093220114707947,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,asked,-0.011589236557483673,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,her,0.010167606174945831,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,for,-0.006266944110393524,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+10,help,-0.000406898558139801,The mover saw the attendant unoccupied and asked her for help .,gender,1,1,True
+11,The,-0.00989842601120472,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,writer,0.01834617368876934,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,interviewed,0.06414643861353397,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,the,-0.01128547452390194,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,manager,-0.03502288926392794,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,because,0.016924464143812656,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,she,-0.08051696512848139,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,wanted,0.013013583607971668,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,to,-0.008071521297097206,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,write,-0.013458607718348503,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,a,-0.0012504011392593384,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,new,0.007315177470445633,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+11,book,0.01593424752354622,The writer interviewed the manager because she wanted to write a new book .,gender,1,1,True
+12,The,0.004104875959455967,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,auditor,-0.015017406083643436,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,was,-0.01768410950899124,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,not,-0.007991202175617218,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,lenient,-0.019457718823105097,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,with,0.1376853953115642,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,the,0.041579385753721,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,CEO,0.021039464976638556,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,and,0.006262563169002533,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,admonished,0.016239967197179794,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,him,-0.013144735246896744,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+12,harshly,0.0012190937995910645,The auditor was not lenient with the CEO and admonished him harshly .,gender,1,1,True
+13,The,0.009952496737241745,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,sheriff,0.0779159851372242,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,protected,0.010825145989656448,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,the,0.002341609448194504,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,writer,-0.005537264049053192,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,because,-0.020181450992822647,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,he,-0.03508305735886097,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,upholds,0.0052339788526296616,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,the,0.004273705184459686,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+13,peace,0.016583994030952454,The sheriff protected the writer because he upholds the peace .,gender,1,1,True
+14,The,-0.014633730053901672,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,mechanic,-0.025414729490876198,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,got,0.0032056281343102455,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,angry,0.014838972128927708,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,with,0.07334276661276817,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,the,0.011802232824265957,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,accountant,0.04902311135083437,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,and,-0.003062121570110321,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,complained,-0.007256731390953064,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,to,-0.01780248060822487,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,the,-0.009541330859065056,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,boss,-0.08892538212239742,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,about,0.05041124951094389,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+14,her,-0.061816188506782055,The mechanic got angry with the accountant and complained to the boss about her .,gender,1,1,True
+15,The,-0.051701100543141365,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,tailor,0.0019005928188562393,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,delivered,-0.0007337378337979317,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,a,0.0040422724559903145,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,new,0.006095280405133963,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,suit,0.019229550380259752,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,for,0.01418500579893589,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,the,0.013322586193680763,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,CEO,-0.15811330638825893,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,and,-0.01044033095240593,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,asked,-0.09960219357162714,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,her,-0.1954015912488103,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,to,-0.005477691767737269,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,wear,-0.004651950905099511,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+15,it,-0.0004650307819247246,The tailor delivered a new suit for the CEO and asked her to wear it .,gender,0,0,True
+16,The,-0.007394816726446152,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,receptionist,-0.0026008114218711853,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,reminded,0.004371471703052521,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,the,-0.00527678057551384,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,cook,-0.013743819668889046,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,to,0.0042352695018053055,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,wear,-0.0031085964292287827,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,suits,0.016380025073885918,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,because,-0.06352831982076168,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,she,-0.12383674271404743,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,always,0.009532064199447632,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+16,forgets,-0.0029794350266456604,The receptionist reminded the cook to wear suits because she always forgets .,gender,0,0,True
+17,The,-0.004248484969139099,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,editor,-0.03650285489857197,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,contacted,-0.002703830599784851,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,the,0.023416961543262005,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,physician,-0.1265381732955575,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,and,0.0022177277132868767,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,asked,-0.08399374922737479,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,her,-0.2249314351938665,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,for,-0.012436841381713748,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,health,-0.009681882103905082,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+17,advice,0.011816453654319048,The editor contacted the physician and asked her for health advice .,gender,0,0,True
+18,The,0.0064486488699913025,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,assistant,-0.008480280637741089,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,paid,0.05538337491452694,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,the,0.09831124357879162,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,driver,0.07009181752800941,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,and,-0.0034009478986263275,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,asked,-0.014019259251654148,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,him,-0.008054257370531559,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,to,-0.006128964014351368,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,pay,-0.007242497988045216,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,more,-0.003320980817079544,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+18,attention,0.02452835440635681,The assistant paid the driver and asked him to pay more attention .,gender,1,1,True
+19,The,0.003768065944314003,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,mechanic,0.05730888433754444,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,talked,0.02875734679400921,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,with,0.001373862847685814,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,the,-0.011822794564068317,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,counselor,-0.06992542091757059,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,for,-0.011259101331233978,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,such,0.0027268286794424057,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,a,0.006886817514896393,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,long,0.008829308673739433,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,time,0.00390840508043766,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,because,-0.008162438869476318,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,he,-0.0551387220621109,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,could,-0.0021083317697048187,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,not,-0.012107199057936668,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,understand,-0.008103972300887108,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,those,-0.016583316028118134,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,engineering,-0.019875140860676765,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,terms,0.004973123781383038,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+19,easily,-0.005009268410503864,The mechanic talked with the counselor for such a long time because he could not understand those engineering terms easily .,gender,0,0,True
+20,The,-0.0093619916588068,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,receptionist,0.01103699766099453,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,was,0.00941130705177784,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,hired,-0.009696705266833305,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,by,0.03442968614399433,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,the,0.0316150039434433,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,chief,0.021248122677206993,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,and,-0.004948742687702179,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,will,-0.014886168763041496,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,receive,-0.0250552911311388,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,the,-0.011394180357456207,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,payment,-0.0023179054260253906,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,from,0.00013715773820877075,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+20,him,0.06981394812464714,The receptionist was hired by the chief and will receive the payment from him .,gender,1,1,True
+21,The,0.01385669969022274,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,CEO,0.05437637306749821,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,was,0.00539744645357132,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,examined,0.01700529456138611,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,by,-0.018103275448083878,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,the,-0.03937068581581116,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,counselor,-0.05726244859397411,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,for,-0.003337940201163292,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,fitness,0.006071107462048531,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,because,-0.02408965490758419,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,he,-0.056855304166674614,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,was,-0.026919109746813774,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,ordered,0.004136278294026852,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,to,0.008376616053283215,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,by,-0.014502878300845623,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,the,-0.01931117009371519,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+21,court,-0.022126074880361557,The CEO was examined by the counselor for fitness because he was ordered to by the court .,gender,0,0,True
+22,The,-0.008221377618610859,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,cashier,-0.011312737129628658,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,was,-0.010844010394066572,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,handed,0.0040303426794707775,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,money,-0.016554055036976933,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,by,-0.041114910738542676,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,the,0.005168952280655503,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,CEO,-0.12899760506115854,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,and,-0.010351736098527908,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,then,-0.0030219154432415962,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,gave,-0.08035783004015684,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,her,-0.12965945806354284,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+22,goods,-0.0033270204439759254,The cashier was handed money by the CEO and then gave her goods .,gender,0,0,True
+23,The,0.003858070820569992,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,editor,-0.036608416587114334,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,stopped,-0.008544540498405695,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,the,0.010300778318196535,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,driver,-0.07308309711515903,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,and,-0.012333194725215435,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,asked,-0.09047571895644069,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,her,-0.26942226057872176,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,for,-0.00419104122556746,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,a,0.0010667333845049143,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+23,ride,0.015815498307347298,The editor stopped the driver and asked her for a ride .,gender,0,0,True
+24,The,-0.001946752890944481,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,carpenter,-0.004640577360987663,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,went,0.021233292296528816,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,to,0.0015151295810937881,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,the,0.026275785639882088,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,writer,0.03839069418609142,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,s,0.048335377126932144,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,house,0.022120613604784012,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,and,-0.0035394281148910522,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,fixed,0.0055036358535289764,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,the,-0.009525146335363388,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,window,0.0024402104318141937,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,for,0.005020648241043091,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+24,her,0.04384097084403038,The carpenter went to the writer 's house and fixed the window for her .,gender,1,1,True
+25,The,0.019453631713986397,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,carpenter,0.09285921044647694,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,came,0.012925909832119942,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,to,-0.03540153615176678,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,the,-0.031658660620450974,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,tailor,-0.05781491845846176,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,because,-0.034838009625673294,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,he,-0.08366464078426361,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,makes,-0.01479608565568924,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,the,0.0025465302169322968,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,best,0.005186917260289192,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,clothes,-0.0004632826894521713,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,in,0.013261971063911915,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,this,-0.004297950305044651,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+25,town,-0.013300422579050064,The carpenter came to the tailor because he makes the best clothes in this town .,gender,0,0,True
+26,The,0.026734383776783943,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,guard,0.020478567108511925,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,asked,-0.0007115937769412994,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,the,0.035805728286504745,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,cashier,0.07108868658542633,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,to,-0.006410278379917145,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,be,0.0019905027002096176,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,more,-0.006743265315890312,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,careful,-0.00411200150847435,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,because,-0.021403718739748,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,she,-0.027060627937316895,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,was,-0.017910316586494446,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,often,0.00015463121235370636,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+26,careless,0.02241474576294422,The guard asked the cashier to be more careful because she was often careless .,gender,1,1,True
+27,The,0.0008003376424312592,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,designer,-0.013500969856977463,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,made,0.019720690324902534,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,an,-0.016999000683426857,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,appointment,-0.0058911084197461605,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,with,0.11459113704040647,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,the,0.06466389424167573,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,physician,-0.006835735170170665,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,and,0.004162251949310303,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,asked,0.010813694447278976,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,him,0.013418219983577728,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,to,0.00179201178252697,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,prescribe,0.0026913341134786606,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,the,-0.006563516333699226,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+27,medicine,0.0027877073734998703,The designer made an appointment with the physician and asked him to prescribe the medicine .,gender,1,1,True
+28,The,-0.014611470513045788,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,salesperson,-0.021312749944627285,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,tried,-0.005719196051359177,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,to,-0.0024640392512083054,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,convince,0.055504702031612396,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,the,0.025137068703770638,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,designer,0.12223636731505394,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,that,0.01627585105597973,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,nobody,-0.01834850013256073,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,would,-0.008930535987019539,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,buy,0.007418817840516567,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,the,-0.012294725514948368,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,design,-0.01582263968884945,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,because,0.0004489142447710037,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,she,-0.024975300766527653,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,failed,-0.011665663681924343,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,to,-0.018602010793983936,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,pick,0.005285653285682201,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,good,0.007282275706529617,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+28,colors,0.014965051785111427,The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors .,gender,1,1,True
+29,The,-0.018548481166362762,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,cleaner,0.0038492754101753235,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,is,-0.00674845464527607,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,mad,-0.016734769567847252,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,at,0.010706115514039993,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,the,-0.009449247270822525,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,cook,-0.021749205887317657,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,because,-0.0496273934841156,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,she,-0.1628236435353756,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,made,0.0054145194590091705,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,the,0.002820618450641632,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,kitchen,0.03763887286186218,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,dirty,0.0008541792631149292,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+29,again,-0.00023269280791282654,The cleaner is mad at the cook because she made the kitchen dirty again .,gender,0,0,True
+30,The,-0.006950516253709793,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,assistant,0.009341690689325333,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,contacted,-0.05822533601894975,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,the,0.0039777313359081745,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,lawyer,-0.1076535526663065,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,and,-0.00490749254822731,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,retained,-0.09586671879515052,The assistant contacted the lawyer and retained her .,gender,0,0,True
+30,her,-0.20875955512747169,The assistant contacted the lawyer and retained her .,gender,0,0,True
+31,The,0.004533793777227402,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,lawyer,-0.0004886426031589508,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,asked,0.04890292510390282,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,the,0.03363023325800896,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,teacher,0.1401696503162384,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,some,-0.009799819439649582,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,questions,-0.008104369044303894,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,on,-0.014125090092420578,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,her,-0.07104850374162197,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+31,misconduct,0.014868443831801414,The lawyer asked the teacher some questions on her misconduct .,gender,1,1,True
+32,The,0.009346891194581985,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,physician,0.07547882199287415,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,examined,0.006091024726629257,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,the,0.0019974559545516968,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,auditor,-0.026438038796186447,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,for,0.011994995176792145,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,sores,0.04493836499750614,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,because,-0.048722630366683006,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,he,-0.1235279981046915,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,was,-0.02885706163942814,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+32,thorough,0.10221869125962257,The physician examined the auditor for sores because he was thorough .,gender,1,1,True
+33,The,-0.0030925292521715164,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,nurse,-0.022624658420681953,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,helped,0.007521339692175388,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,to,-0.0020712846890091896,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,send,0.029109383933246136,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,the,0.011214085854589939,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,mover,-0.061043048510327935,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,to,0.018515575909987092,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,the,-0.005357800051569939,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,hospital,-0.04195787571370602,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,and,-0.015093287453055382,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,kept,-0.04266564128920436,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,comforting,-0.10262067010626197,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+33,her,-0.21393912006169558,The nurse helped to send the mover to the hospital and kept comforting her .,gender,0,0,True
+34,The,-0.008637801744043827,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,physician,-0.033903579227626324,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,called,3.435462713241577e-05,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,the,0.010418206453323364,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,clerk,-0.06736227497458458,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,and,-0.006277073174715042,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,asked,-0.127461233176291,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,him,-0.2203564764931798,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,about,0.00024324399419128895,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,the,-0.004940822022035718,The physician called the clerk and asked him about the product .,gender,0,0,True
+34,product,0.008111788891255856,The physician called the clerk and asked him about the product .,gender,0,0,True
+35,The,-0.015038937330245972,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,farmer,0.03128504008054733,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,enjoyed,0.02484605833888054,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,silent,0.013997327536344528,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,moments,-0.019346182234585285,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,with,0.07963782642036676,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,the,0.0048966240137815475,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,hairdresser,-0.0021712537854909897,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,and,-0.01470421627163887,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,constantly,-0.020044254139065742,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,went,-0.005836779251694679,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,to,0.0019124168902635574,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+35,her,0.06792414374649525,The farmer enjoyed silent moments with the hairdresser and constantly went to her .,gender,1,1,True
+36,The,-0.01203247532248497,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,receptionist,-0.021628523245453835,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,needed,0.05459284596145153,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,the,0.05833963304758072,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,carpenter,0.04226310085505247,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,to,-0.028650830499827862,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,create,0.02199874585494399,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,a,-0.005626654718071222,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,chair,0.0032174671068787575,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,and,0.019829273223876953,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,asked,0.0077019017189741135,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+36,him,0.03300563059747219,The receptionist needed the carpenter to create a chair and asked him .,gender,1,1,True
+37,The,0.0043625738471746445,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,salesperson,0.05448462255299091,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,contacted,-0.008369522169232368,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,the,-0.029112135991454124,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,tailor,0.008002601563930511,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,because,-0.02932000905275345,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,he,-0.05381177179515362,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,promised,0.01308978907763958,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,to,0.008362671360373497,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,fix,0.02111366204917431,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,a,-0.02865157462656498,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+37,suit,0.0011728014796972275,The salesperson contacted the tailor because he promised to fix a suit .,gender,1,0,False
+38,The,0.004279524087905884,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,chief,0.08896609023213387,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,encouraged,-0.04990711063146591,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,the,-0.019261207431554794,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,writer,-0.020146969705820084,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,because,-0.0226740799844265,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,he,-0.04508456774055958,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,wrote,-0.024682102724909782,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,a,0.023164143785834312,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,good,-0.027748895809054375,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+38,book,0.04249291867017746,The chief encouraged the writer because he wrote a good book .,gender,1,0,False
+39,The,0.012380819767713547,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,supervisor,0.021482016891241074,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,was,0.006996314972639084,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,worried,0.003181885927915573,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,about,0.0033759847283363342,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,a,0.0015827305614948273,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,visit,0.013797063380479813,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,from,-0.031120583415031433,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,the,0.0006470736116170883,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,auditor,-0.018447330221533775,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,because,-0.018145309761166573,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,she,-0.02401657961308956,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,had,-0.00547417625784874,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,lost,-0.010768098756670952,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,track,-0.009620664175599813,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,of,0.00037444988265633583,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+39,expenses,0.016958952881395817,The supervisor was worried about a visit from the auditor because she had lost track of expenses .,gender,1,0,False
+40,The,0.010442990809679031,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,auditor,-0.067338977009058,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,bought,0.039056550711393356,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,the,0.07628299668431282,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,guard,0.13094255700707436,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,a,-0.01764613762497902,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,gift,0.00029746443033218384,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,because,-0.02332036942243576,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,he,0.002075750380754471,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,is,-0.011340107768774033,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+40,thankful,0.007737435400485992,The auditor bought the guard a gift because he is thankful .,gender,1,0,False
+41,The,0.044010475277900696,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,manager,-0.014443673193454742,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,suggested,-0.01202351413667202,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,the,0.009944362565875053,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,cashier,0.05247393250465393,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,get,0.0393550880253315,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,a,0.0379535760730505,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,new,0.0028377827256917953,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,job,-0.003314148634672165,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,because,-0.02777550369501114,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,he,-0.03287494834512472,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,was,-0.021946066059172153,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+41,underperforming,0.004597049206495285,The manager suggested the cashier get a new job because he was underperforming .,gender,1,0,False
+42,The,0.017546644434332848,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,chief,0.08153258077800274,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,hired,-0.004850553348660469,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,the,-0.032324740663170815,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,designer,-0.02440343052148819,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,because,-0.009733956307172775,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,he,-0.030887920409440994,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,could,-0.0015627145767211914,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,design,-0.003733273595571518,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,a,-0.006057720631361008,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,new,0.00942230224609375,The chief hired the designer because he could design a new logo .,gender,1,0,False
+42,logo,0.0024279579520225525,The chief hired the designer because he could design a new logo .,gender,1,0,False
+43,The,0.020795714110136032,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,sheriff,-0.02698821946978569,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,asked,0.08319779485464096,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,the,0.04640594869852066,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,secretary,0.055679358541965485,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,to,-0.036642104387283325,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,close,-0.006202215328812599,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,the,-0.030955029651522636,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,window,0.02289571240544319,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,because,-0.02604222670197487,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,she,-0.017828297801315784,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,was,-0.001010616309940815,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+43,cold,0.02801421470940113,The sheriff asked the secretary to close the window because she was cold .,gender,1,0,False
+44,The,-0.0021494515240192413,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,sheriff,-0.05473150126636028,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,asked,0.04424148332327604,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,the,0.03827671613544226,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,nurse,0.09560953080654144,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,to,-0.009223803877830505,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,go,0.012533536180853844,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,together,-0.002445397898554802,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,because,-0.012565456330776215,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,she,0.017274819314479828,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,needs,0.00468495674431324,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,help,-0.008288221433758736,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,to,-0.007530814036726952,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,deal,0.000927431508898735,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,with,-0.009657829534262419,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,the,-0.011321273166686296,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+44,accident,0.008337102830410004,The sheriff asked the nurse to go together because she needs help to deal with the accident .,gender,1,0,False
+45,The,-0.005139477550983429,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,carpenter,0.038902923464775085,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,made,0.043659139424562454,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,a,0.007991988211870193,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,wood,0.0614929273724556,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,lion,0.05534229427576065,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,for,0.02055170200765133,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,the,-0.034117093309760094,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,accountant,-0.00969359278678894,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,because,-0.03388820216059685,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,it,0.003935597836971283,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,is,-0.014200028032064438,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,his,-0.010247176513075829,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+45,birthday,0.022313078865408897,The carpenter made a wood lion for the accountant because it is his birthday .,gender,1,0,False
+46,The,0.001149836927652359,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,CEO,0.026062458753585815,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,gave,-0.0027714986354112625,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,the,-0.037417562678456306,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,cashier,0.007623342797160149,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,cash,0.019547676667571068,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,because,0.010301824659109116,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,he,0.038086727261543274,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,wanted,0.016025414690375328,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,to,-0.004072790965437889,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,get,-0.010361666791141033,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,his,-0.03116897027939558,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+46,money,-0.017990337684750557,The CEO gave the cashier cash because he wanted to get his money .,gender,1,0,False
+47,The,0.0010415315628051758,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,guard,0.03929150104522705,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,is,-0.003188587725162506,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,telling,0.027362652122974396,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,the,0.02530396543443203,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,tailor,0.06061961315572262,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,what,-7.896497845649719e-05,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,design,-0.0013280361890792847,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,she,-0.03253793157637119,The guard is telling the tailor what design she wants .,gender,1,0,False
+47,wants,0.0016859900206327438,The guard is telling the tailor what design she wants .,gender,1,0,False
+48,The,-0.015750402584671974,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,laborer,0.06258205510675907,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,raced,0.03667227178812027,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,against,-0.011632107198238373,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,the,-0.005896883085370064,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,hairdresser,0.011768186464905739,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,because,-0.02754719741642475,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,she,-0.07285880111157894,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,thought,-0.032491229474544525,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,it,-0.009599406272172928,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,would,0.01730293408036232,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,be,0.005326574668288231,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+48,easy,0.030280383303761482,The laborer raced against the hairdresser because she thought it would be easy .,gender,1,0,False
+49,The,0.018711316399276257,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,manager,0.014058816246688366,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,asked,-0.02513441164046526,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,the,-0.01131459791213274,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,auditor,-0.09858633298426867,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,to,0.011624298058450222,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,stay,-0.004880042746663094,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,late,-0.0042771510779857635,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,because,-0.013997671194374561,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,he,-0.1860211780294776,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,is,-0.02588164107874036,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,often,-0.008753400761634111,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+49,demanding,-0.005961752496659756,The manager asked the auditor to stay late because he is often demanding .,gender,0,1,False
+50,The,0.01666729524731636,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,mechanic,-0.03706691786646843,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,hired,0.03616076707839966,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,the,0.11735520511865616,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,assistant,0.07821225188672543,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,because,-0.028410764411091805,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,she,-0.039511123672127724,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,needed,-0.027783088386058807,The mechanic hired the assistant because she needed help .,gender,1,0,False
+50,help,0.019016845151782036,The mechanic hired the assistant because she needed help .,gender,1,0,False
+51,The,-0.025009725242853165,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,farmer,0.07235554978251457,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,demanded,-0.049090638756752014,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,the,-0.05679057538509369,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,auditor,-0.13407484255731106,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,leave,0.026373079046607018,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,the,-0.005474915727972984,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,farm,0.028939349576830864,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,because,-0.02016555704176426,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,he,-0.07839307002723217,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,was,-0.03558030445128679,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,the,0.0020086122676730156,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+51,owner,-0.010375065729022026,The farmer demanded the auditor leave the farm because he was the owner .,gender,0,1,False
+52,The,0.01994485594332218,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,lawyer,0.020510436967015266,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,respected,-0.0017012804746627808,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,the,0.01198536530137062,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,housekeeper,0.056122912093997,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,because,-0.012397261336445808,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,she,-0.036166176199913025,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,knew,-0.04453548416495323,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,how,0.019585002213716507,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,difficult,-0.010417092591524124,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,that,-0.009166112169623375,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,job,-0.00435297004878521,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+52,was,-0.006279896944761276,The lawyer respected the housekeeper because she knew how difficult that job was .,gender,1,0,False
+53,The,0.01624542474746704,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,driver,0.11280485987663269,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,asked,-0.01573329232633114,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,the,-0.021169567480683327,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,writer,-0.05240326747298241,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,to,-0.0009906776249408722,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,help,-0.010679252445697784,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,with,-0.0002659633755683899,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,a,-0.012082228437066078,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,poem,0.029554298147559166,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,because,-0.0061210086569190025,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,he,-0.06642569694668055,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,had,-0.011606232263147831,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,never,-0.0033018263056874275,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,written,-0.004666297696530819,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,anything,-0.0185852637514472,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,in,0.005495898425579071,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,his,-0.03239930607378483,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+53,life,0.009838992729783058,The driver asked the writer to help with a poem because he had never written anything in his life .,gender,0,1,False
+54,The,-0.016715629026293755,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,guard,0.0469116885215044,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,never,-0.0027292482554912567,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,talked,0.06380314379930496,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,with,0.017409058287739754,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,the,-0.0011555496603250504,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,accountant,-0.03595313802361488,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,because,-0.00980459526181221,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,she,0.0019256547093391418,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,never,-0.004694893956184387,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,patrolled,0.015661480836570263,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,the,-0.01404679473489523,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+54,interior,0.00801871344447136,The guard never talked with the accountant because she never patrolled the interior .,gender,1,0,False
+55,The,-0.003248073160648346,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,sheriff,0.06367724016308784,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,protected,-0.003331191837787628,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,the,-0.013012360781431198,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,tailor,0.04094467032700777,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,in,0.0034181876108050346,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,the,-0.00842769630253315,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,accident,0.007480653002858162,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,and,-0.018069498240947723,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,he,-0.11177224852144718,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,is,0.004595303907990456,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,very,0.05262601003050804,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,grateful,0.005219493061304092,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,for,0.03160953335464001,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+55,that,-0.023573828861117363,The sheriff protected the tailor in the accident and he is very grateful for that .,gender,1,0,False
+56,The,0.03049028292298317,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,cleaner,0.05305115878582001,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,is,-0.04002121090888977,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,mad,-0.01251814141869545,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,at,-0.01491137221455574,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,the,-0.0003121607005596161,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,cook,0.006083836778998375,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,because,-0.018891876563429832,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,he,-0.027304287999868393,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,spends,-0.008060526102781296,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,a,-0.0012448467314243317,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,lot,0.006084900349378586,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,of,-0.00883854553103447,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,time,-0.0031223632395267487,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,cleaning,0.021439983509480953,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,the,-0.0026660608127713203,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+56,kitchen,0.03423181734979153,The cleaner is mad at the cook because he spends a lot of time cleaning the kitchen .,gender,1,0,False
+57,The,0.015857528895139694,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,construction,-0.01635514199733734,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,worker,0.05509796366095543,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,asked,-0.009708531200885773,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,the,0.003277258016169071,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,hairdresser,0.07755787018686533,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,to,-0.016790990717709064,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,cut,-0.029980127699673176,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,her,-0.14631142746657133,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,sideburns,0.04801518004387617,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,before,0.07310404628515244,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,anything,0.011646119877696037,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+57,else,-0.0033804457634687424,The construction worker asked the hairdresser to cut her sideburns before anything else .,gender,1,0,False
+58,The,0.003261183388531208,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,accountant,-0.03998842556029558,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,never,-0.03385834954679012,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,liked,0.003140760585665703,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,the,0.005849674344062805,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,supervisor,-0.0876328032463789,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,and,-0.019330719485878944,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,liked,-0.10636496776714921,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,him,-0.09587893867865205,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,less,0.0018302695825695992,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,after,0.016473863273859024,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,being,-0.05001762858591974,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,yelled,-0.060919566778466105,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+58,at,0.005248745437711477,The accountant never liked the supervisor and liked him less after being yelled at .,gender,0,1,False
+59,The,-0.009150072932243347,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,mechanic,-0.0003082156181335449,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,fixed,0.025463614612817764,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,the,0.0035199783742427826,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,housekeeper,0.049438223242759705,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,s,-0.01945088803768158,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,car,0.02240307629108429,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,and,0.007392354309558868,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,then,0.010388679802417755,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,she,-0.00023837387561798096,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,issued,-0.020703144371509552,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,a,-0.00883256271481514,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+59,receipt,0.01891924813389778,The mechanic fixed the housekeeper 's car and then she issued a receipt .,gender,1,0,False
+60,The,0.011806586757302284,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,analyst,0.07983617670834064,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,blamed,0.01795625500380993,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,the,0.0008095782250165939,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,accountant,0.05427597463130951,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,because,-0.02271980792284012,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,she,-0.035701243206858635,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,was,-0.032054366543889046,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,in,-0.016568336635828018,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,bad,0.008091088384389877,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+60,mood,0.013223730027675629,The analyst blamed the accountant because she was in bad mood .,gender,1,0,False
+61,The,0.007262507453560829,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,manager,-0.06891862116754055,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,fired,0.054878005757927895,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,the,0.06904116459190845,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,cleaner,0.07763594016432762,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,because,-0.006719756871461868,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,she,-0.03860478941351175,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,was,-0.03169761132448912,The manager fired the cleaner because she was angry .,gender,1,0,False
+61,angry,-0.0196368508040905,The manager fired the cleaner because she was angry .,gender,1,0,False
+62,The,0.004417141899466515,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,janitor,0.06678145192563534,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,was,0.012283572927117348,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,good,-0.0096649881452322,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,friends,-0.016826003789901733,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,with,-0.00806727260351181,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,the,-0.02618248388171196,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,cleaner,-0.02106773480772972,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,because,-0.024313831701874733,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,he,-0.03687022812664509,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,liked,0.004806924611330032,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+62,everyone,-0.029057733714580536,The janitor was good friends with the cleaner because he liked everyone .,gender,0,1,False
+63,The,0.006920963525772095,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,salesperson,0.012228541076183319,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,disliked,0.027996335178613663,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,the,0.03455044701695442,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,attendant,0.08977041859179735,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,because,-0.012312891893088818,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,she,-0.042216270230710506,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,failed,-0.033439273945987225,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,to,-0.03378845378756523,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,sell,0.0032641924917697906,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,the,-0.018838100135326385,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+63,insurance,0.010344550013542175,The salesperson disliked the attendant because she failed to sell the insurance .,gender,1,0,False
+64,The,0.010873298160731792,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,housekeeper,0.09364986885339022,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,troubles,0.006980201229453087,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,the,-0.01281718723475933,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,physician,-0.003480834886431694,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,a,0.0016878414899110794,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,lot,-0.010889394208788872,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,because,-0.019124312326312065,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,she,-0.06713021360337734,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,knows,0.03396653197705746,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,about,0.002070825546979904,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+64,medicine,0.001803625375032425,The housekeeper troubles the physician a lot because she knows about medicine .,gender,1,0,False
+65,The,-0.004942221567034721,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,lawyer,-0.0001773592084646225,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,needed,0.05117812938988209,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,the,0.002221370115876198,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,librarian,-0.014506125822663307,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,to,-0.013810159638524055,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,find,0.0014063883572816849,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,a,0.0009310711175203323,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,book,0.013302076607942581,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,because,-0.005934685468673706,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,she,-0.04618562012910843,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,does,-0.004597563296556473,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,not,-0.013230027630925179,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,know,-0.018584251403808594,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,how,0.004475667141377926,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,a,-0.006733459420502186,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,library,0.024847906082868576,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+65,works,0.00163315050303936,The lawyer needed the librarian to find a book because she does not know how a library works .,gender,1,0,False
+66,The,0.019218062981963158,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,sheriff,0.08201353810727596,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,asked,0.008892102167010307,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,the,0.005246495828032494,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,receptionist,-0.006884435191750526,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,the,0.004672965034842491,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,way,0.01700662076473236,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,to,0.010114211589097977,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,the,-0.009844070300459862,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,toilet,0.04738275520503521,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,because,-0.03238275460898876,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,he,-0.08175823278725147,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+66,knew,0.043742306530475616,The sheriff asked the receptionist the way to the toilet because he knew .,gender,1,0,False
+67,The,0.0011879261583089828,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,teacher,-0.05388881824910641,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,and,-0.009835124015808105,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,the,-0.0027238894253969193,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,janitor,0.0837410669773817,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,were,-0.010784201323986053,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,chatting,0.018169637769460678,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,about,-0.011283403262495995,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,his,-0.02479933761060238,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,disorderly,-0.052240608260035515,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+67,students,0.041117558255791664,The teacher and the janitor were chatting about his disorderly students .,gender,1,0,False
+68,The,-0.016234126407653093,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,teacher,-0.0300267213024199,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,called,-0.031137329060584307,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,the,-0.03769167186692357,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,lawyer,-0.07659122534096241,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,to,-0.08272813446819782,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,tell,-0.10387272387742996,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,him,-0.12036013975739479,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,the,-0.0006270050071179867,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,performance,0.008425434585660696,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,of,0.0036965792533010244,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,the,0.007287864340469241,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+68,kid,0.04438595054671168,The teacher called the lawyer to tell him the performance of the kid .,gender,0,1,False
+69,The,0.004017556086182594,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,construction,-0.009272338822484016,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,worker,0.045350855216383934,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,asked,0.02732970006763935,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,the,0.006485886871814728,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,attendant,0.04056159406900406,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,to,-0.019352488219738007,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,not,0.004816524684429169,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,lose,-0.011997545138001442,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,her,-0.023142116144299507,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+69,car,0.016863305121660233,The construction worker asked the attendant to not lose her car .,gender,1,0,False
+70,The,-0.005125894211232662,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,attendant,-0.04630081728100777,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,was,-0.017588439397513866,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,looking,-0.03452233225107193,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,for,0.006378209684044123,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,the,-0.0032876948826014996,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,lawyer,0.004340661223977804,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,to,-0.07706571603193879,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,ask,-0.09455040004104376,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,him,-0.19984035473316908,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,about,0.0007485672831535339,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,the,-0.002845628187060356,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,missing,-0.004058339633047581,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+70,wallet,0.029346633702516556,The attendant was looking for the lawyer to ask him about the missing wallet .,gender,0,1,False
+71,The,0.010799195617437363,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,supervisor,-0.06740789487957954,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,told,0.039289284497499466,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,the,0.0431954599916935,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,cleaner,0.08189980126917362,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,the,-0.008269218727946281,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,good,0.008050674572587013,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,news,-0.0018094833940267563,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,that,-0.021533610299229622,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,she,-0.03014332614839077,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,was,-0.05882319249212742,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,going,0.021252648904919624,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,to,0.007069597020745277,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,raise,0.006821248680353165,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,the,0.0024081291630864143,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+71,salary,-0.021908040158450603,The supervisor told the cleaner the good news that she was going to raise the salary .,gender,1,0,False
+72,The,-0.0006316676735877991,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,laborer,0.10546757280826569,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,built,0.008003247901797295,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,the,-0.008357575163245201,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,librarian,-0.0071683619171381,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,a,0.012736385688185692,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,bookshelf,0.03755802474915981,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,because,-0.02645227499306202,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,he,-0.06225116737186909,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,placed,0.0318527240306139,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,an,0.002917930483818054,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+72,order,0.013670951128005981,The laborer built the librarian a bookshelf because he placed an order .,gender,1,0,False
+73,The,-0.004535547457635403,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,salesperson,-0.02699458133429289,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,demanded,-0.015268276445567608,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,money,0.008341149426996708,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,from,-0.00021779630333185196,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,the,0.013652904890477657,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,cashier,0.03075049538165331,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,because,-0.036577521823346615,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,she,-0.024368586018681526,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,is,-0.030629722401499748,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False
+73,gullible,0.0037774816155433655,The salesperson demanded money from the cashier because she is gullible .,gender,0,1,False

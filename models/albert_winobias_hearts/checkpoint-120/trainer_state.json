@@ -1,0 +1,67 @@
+{
+  "best_metric": 0.6929033398628235,
+  "best_model_checkpoint": "models/albert_winobias_hearts\\checkpoint-120",
+  "epoch": 3.0,
+  "eval_steps": 500,
+  "global_step": 120,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_balanced accuracy": 0.5,
+      "eval_f1": 0.3389121338912134,
+      "eval_loss": 0.6931130290031433,
+      "eval_precision": 0.2563291139240506,
+      "eval_recall": 0.5,
+      "eval_runtime": 0.5629,
+      "eval_samples_per_second": 561.381,
+      "eval_steps_per_second": 8.883,
+      "step": 40
+    },
+    {
+      "epoch": 1.25,
+      "learning_rate": 1.5833333333333333e-05,
+      "loss": 0.698,
+      "step": 50
+    },
+    {
+      "epoch": 2.0,
+      "eval_balanced accuracy": 0.48332531665865,
+      "eval_f1": 0.4108715184186882,
+      "eval_loss": 0.6932457089424133,
+      "eval_precision": 0.4687218045112782,
+      "eval_recall": 0.48332531665865,
+      "eval_runtime": 0.5185,
+      "eval_samples_per_second": 609.438,
+      "eval_steps_per_second": 9.643,
+      "step": 80
+    },
+    {
+      "epoch": 2.5,
+      "learning_rate": 1.1666666666666668e-05,
+      "loss": 0.6963,
+      "step": 100
+    },
+    {
+      "epoch": 3.0,
+      "eval_balanced accuracy": 0.5,
+      "eval_f1": 0.3389121338912134,
+      "eval_loss": 0.6929033398628235,
+      "eval_precision": 0.2563291139240506,
+      "eval_recall": 0.5,
+      "eval_runtime": 0.524,
+      "eval_samples_per_second": 603.032,
+      "eval_steps_per_second": 9.542,
+      "step": 120
+    }
+  ],
+  "logging_steps": 50,
+  "max_steps": 240,
+  "num_train_epochs": 6,
+  "save_steps": 500,
+  "total_flos": 9561527827020.0,
+  "trial_name": null,
+  "trial_params": null
+}
