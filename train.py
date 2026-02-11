@@ -341,9 +341,9 @@ def main():
     
     # HEARTS hyperparameters 
     MODEL_PATH = "albert/albert-base-v2"  
-    BATCH_SIZE = 32                        
-    EPOCHS = 3                             
-    LEARNING_RATE = 1e-5                   
+    BATCH_SIZE = 64                        
+    EPOCHS = 6                             
+    LEARNING_RATE = 2e-5                   
     SEED = 42                             
     
     # Part A.4: Load data and train model
